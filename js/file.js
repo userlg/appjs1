@@ -15,6 +15,10 @@ alert(77);
 
 nuevoContenido();
 
+var m1 = 'Introduce tu Nombre';
+
+var texto = prompt(m1);
+
 console.log(sumar(15,5));
 
 
