@@ -34,4 +34,4 @@ console.log(sumar(15,5));
 console.log(factorial(4));
 
 
-console.log('Bienvenido',+texto);
+console.log('Bienvenido  '+texto);
